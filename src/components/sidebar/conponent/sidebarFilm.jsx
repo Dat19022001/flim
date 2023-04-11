@@ -23,7 +23,7 @@ const SidebarFilm = () => {
       nam: "2023",
       url: "https://motphimtv.me/",
       img: "https://cdn6.kenhvn2.com/temp/phimmoi/230_306_260766_vinh-quang-trong-thu-han-phan-2.jpg",
-      Name: "Tình yêu tử thần",
+      Name: "Tình yêu tử thần 1",
     },
   ];
   
