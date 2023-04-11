@@ -4,19 +4,19 @@ const SidebarFilm = () => {
     {
       nam: "2023",
       url: "https://motphimtv.me/",
-      img: "https://cdn6.kenhvn2.com/temp/phimmoi/230_306_260766_vinh-quang-trong-thu-han-phan-2.jpg",
+      img: "	https://cdn1-img.net/images/1680082926.jpg",
       Name: "Tình yêu tử thần",
     },
     {
       nam: "2023",
       url: "https://motphimtv.me/",
-      img: "https://cdn6.kenhvn2.com/temp/phimmoi/230_306_260766_vinh-quang-trong-thu-han-phan-2.jpg",
+      img: "https://cdn1-img.net/images/1673863312.jpg",
       Name: "Tình yêu tử thần",
     },
     {
       nam: "2023",
       url: "https://motphimtv.me/",
-      img: "https://cdn6.kenhvn2.com/temp/phimmoi/230_306_260766_vinh-quang-trong-thu-han-phan-2.jpg",
+      img: "https://cdn1-img.net/images/1653012789.jpg",
       Name: "Tình yêu tử thần",
     },
     {
@@ -26,6 +26,7 @@ const SidebarFilm = () => {
       Name: "Tình yêu tử thần",
     },
   ];
+  
 
   return (
     <ul className="SidebarFilm">
